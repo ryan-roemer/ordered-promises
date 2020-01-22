@@ -1,0 +1,11 @@
+{
+  "name": "promise-experiments",
+  "version": "0.0.1",
+  "description": "Promise experiments",
+  "main": "index.js",
+  "author": "Ryan Roemer <ryan.roemer@formidable.com>",
+  "license": "MIT",
+  "dependencies": {
+    "p-limit": "^2.2.2"
+  }
+}
