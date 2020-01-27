@@ -6,6 +6,10 @@
  */
 const pLimit = require("p-limit");
 
+console.log("TODO HERE", require.resolve);
+console.log("TODO HERE", process.env);
+console.log("TODO HERE", require.resolve("p-limit"));
+
 // Constants.
 const NUM_CONCURRENCY = 4;
 const NUM_PROMS = 20;
