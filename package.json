@@ -1,7 +1,7 @@
 {
-  "name": "promise-experiments",
+  "name": "ordered-promises",
   "version": "0.0.1",
-  "description": "Promise experiments",
+  "description": "Promise experiments in ordering",
   "main": "index.js",
   "author": "Ryan Roemer <ryan.roemer@formidable.com>",
   "license": "MIT",
